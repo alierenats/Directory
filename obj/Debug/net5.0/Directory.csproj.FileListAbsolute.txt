@@ -1,0 +1,15 @@
+C:\Users\eren.ates\Documents\Sites\Directory\Directory\bin\Debug\net5.0\Directory.exe
+C:\Users\eren.ates\Documents\Sites\Directory\Directory\bin\Debug\net5.0\Directory.deps.json
+C:\Users\eren.ates\Documents\Sites\Directory\Directory\bin\Debug\net5.0\Directory.runtimeconfig.json
+C:\Users\eren.ates\Documents\Sites\Directory\Directory\bin\Debug\net5.0\Directory.runtimeconfig.dev.json
+C:\Users\eren.ates\Documents\Sites\Directory\Directory\bin\Debug\net5.0\Directory.dll
+C:\Users\eren.ates\Documents\Sites\Directory\Directory\bin\Debug\net5.0\Directory.pdb
+C:\Users\eren.ates\Documents\Sites\Directory\Directory\obj\Debug\net5.0\Directory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eren.ates\Documents\Sites\Directory\Directory\obj\Debug\net5.0\Directory.AssemblyInfoInputs.cache
+C:\Users\eren.ates\Documents\Sites\Directory\Directory\obj\Debug\net5.0\Directory.AssemblyInfo.cs
+C:\Users\eren.ates\Documents\Sites\Directory\Directory\obj\Debug\net5.0\Directory.csproj.CoreCompileInputs.cache
+C:\Users\eren.ates\Documents\Sites\Directory\Directory\obj\Debug\net5.0\Directory.dll
+C:\Users\eren.ates\Documents\Sites\Directory\Directory\obj\Debug\net5.0\refint\Directory.dll
+C:\Users\eren.ates\Documents\Sites\Directory\Directory\obj\Debug\net5.0\Directory.pdb
+C:\Users\eren.ates\Documents\Sites\Directory\Directory\obj\Debug\net5.0\Directory.genruntimeconfig.cache
+C:\Users\eren.ates\Documents\Sites\Directory\Directory\obj\Debug\net5.0\ref\Directory.dll
