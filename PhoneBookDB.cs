@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Directory
 {
-    public class PhoneBookDatabase : IOperations
+    public class PhoneBookDatabase 
     {
 
         private static List<Person> _phoneList;
@@ -43,5 +43,7 @@ namespace Directory
             }
 
         }
+
+      
     }
 }

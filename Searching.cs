@@ -7,7 +7,7 @@ using Directory;
 
 namespace Directory
 {
-    public class Searching : IOperations
+    public class Searching 
     {
         public static void Search()
         {
@@ -35,6 +35,26 @@ namespace Directory
 
             }
 
+        }
+
+        public void Delete()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void Save()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void Show()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void Update()
+        {
+            throw new NotImplementedException();
         }
     }
 }

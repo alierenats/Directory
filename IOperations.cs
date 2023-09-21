@@ -6,16 +6,16 @@ using System.Threading.Tasks;
 
 namespace Directory
 {
-    internal interface IOperations
+    public interface IOperations
     {
-        public void Save() { }
+        void Save();
 
-        public void Delete() { }
+        void Delete();
 
-        public void Show() { }
+        void Show();
 
-        public void Update() { }
+        void Update();
 
-        public void Search() { }
+        void Search();
     }
 }

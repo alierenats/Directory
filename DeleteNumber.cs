@@ -54,6 +54,26 @@ namespace Directory
             }
 
         }
+
+        public void Save()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void Search()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void Show()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void Update()
+        {
+            throw new NotImplementedException();
+        }
     }
 
 }

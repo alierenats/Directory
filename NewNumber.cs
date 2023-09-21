@@ -8,6 +8,10 @@ using Directory;
 
 public class NewNumber : IOperations
 {
+    public void Delete()
+    {
+        throw new NotImplementedException();
+    }
 
     public void Save()
     {
@@ -39,5 +43,20 @@ public class NewNumber : IOperations
 
         }
 
+    }
+
+    public void Search()
+    {
+        throw new NotImplementedException();
+    }
+
+    public void Show()
+    {
+        throw new NotImplementedException();
+    }
+
+    public void Update()
+    {
+        throw new NotImplementedException();
     }
 }

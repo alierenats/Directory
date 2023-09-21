@@ -44,7 +44,7 @@ namespace Directory
                     break;
 
 
-                case 4: // List
+                case 4: // Show Directory
 
                     PhoneBookDatabase phoneBookDatabase = new PhoneBookDatabase();
                     PhoneBookDatabase.Show();
@@ -53,7 +53,7 @@ namespace Directory
 
 
                 case 5:  // Search
-                    Searching searching = new Searching();
+                    Searching searching = new();
                     Searching.Search();
 
                     break;
