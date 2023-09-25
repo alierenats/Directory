@@ -7,9 +7,9 @@ using Directory;
 
 namespace Directory
 {
-    public class Searching 
+    public class Searching : IOperations
     {
-        public static void Search()
+        public void Search()
         {
         rollback:
             Console.WriteLine("Aramak istediginiz isimi giriniz.");

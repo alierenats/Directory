@@ -53,8 +53,8 @@ namespace Directory
 
 
                 case 5:  // Search
-                    Searching searching = new();
-                    Searching.Search();
+                    Searching searching = new Searching();
+                    searching.Search();
 
                     break;
             }
