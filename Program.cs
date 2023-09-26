@@ -8,9 +8,12 @@ namespace Directory
 {
     class Program
     {
+        private static IPhonebook _phoneBook;
 
         static void Main(string[] args)
         {
+            _phoneBook = new Phonebook();
+
             Console.WriteLine("Lütfen yapmak istediğiniz işlemi seçiniz ");
             Console.WriteLine("*******************************************");
             Console.WriteLine("(1) Yeni Numara Kaydetmek");
@@ -25,37 +28,23 @@ namespace Directory
             {
 
                 case 1: //Add Number
-                    NewNumber newNumber = new NewNumber();
-                    newNumber.Save();
-
+                    _phoneBook.Save();
                     break;
 
                 case 2: //Delete Number
-
-                    DeleteNumber DeleteNumber = new DeleteNumber();
-                    DeleteNumber.Delete();
-
+                    _phoneBook.Delete();
                     break;
 
                 case 3:  //Update Number
-                    UpdateNumber UpdateNumber = new UpdateNumber();
-                    UpdateNumber.Update();
-
+                    _phoneBook.Update();
                     break;
-
 
                 case 4: // Show Directory
-
-                    PhoneBookDatabase phoneBookDatabase = new PhoneBookDatabase();
-                    PhoneBookDatabase.Show();
-
+                    _phoneBook.Show();
                     break;
 
-
                 case 5:  // Search
-                    Searching searching = new Searching();
-                    searching.Search();
-
+                    _phoneBook.Search();
                     break;
             }
         }

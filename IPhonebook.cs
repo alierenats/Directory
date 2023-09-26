@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Directory
 {
-    public interface IOperations
+    public interface IPhonebook
     {
         void Save();
 
